@@ -7,7 +7,7 @@ buildscript {
     }
     ext {
         // main
-        kbox_version = '0.15.1'
+        kbox_version = '0.16.0'
         kbox = { "ch.tutteli.kbox:kbox:$kbox_version" }
         niokVersion = '1.4.7'
         niok = { "ch.tutteli.niok:niok:$niokVersion" }
